@@ -1,0 +1,4 @@
+{
+  "signature": "lib/sandbox/providers/coolify-provider.ts::Unresolved from this turn — lib/sandbox/providers/coolify-provider.ts:\n🔴 STOP — 2 issue(s) must be fixed:\n  L93: Type '\"coolify\"' is not assignable to type '\"e2b\" | \"vercel\"'.\n  L98: Type 'SandboxInfo | null' is not assignable to type 'SandboxInfo'.\n    Type 'null' is not assignable to type 'SandboxInfo'.",
+  "sessionId": "lens-mpdsg6qn-94a48761"
+}

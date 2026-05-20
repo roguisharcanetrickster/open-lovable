@@ -1,0 +1,6 @@
+# Nixpacks configuration
+[providers.node]
+nodeVersion = "22"
+installCommand = "npm ci"
+buildCommand = "npm run build"
+startCommand = "npm run start"

@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "type": "TODO",
+      "message": "Add file content fetching logic here",
+      "file": "app/generation/page.tsx",
+      "line": 2235,
+      "column": 7
+    },
+    {
+      "type": "TODO",
+      "message": "fix this",
+      "file": "components/shared/pixi/utils.ts",
+      "line": 2,
+      "column": 18
+    }
+  ]
+}

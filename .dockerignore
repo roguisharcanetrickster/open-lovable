@@ -1,0 +1,14 @@
+.git
+.github
+.next
+.next/cache
+node_modules
+pnpm-lock.yaml
+package-lock.json
+bun.lock
+.pi-lens
+.cursor
+README.md
+docs
+tests
+tests-integration

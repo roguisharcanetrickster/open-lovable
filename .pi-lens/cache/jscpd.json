@@ -1,0 +1,944 @@
+{
+  "success": true,
+  "clones": [
+    {
+      "fileA": "components/app/(home)/sections/hero/Pixi/tickers/features/scrape.ts",
+      "startA": 1,
+      "fileB": "components/app/(home)/sections/hero/Pixi/tickers/features/search.ts",
+      "startB": 1,
+      "lines": 16,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/hero/Pixi/tickers/features/scrape.ts",
+      "startA": 17,
+      "fileB": "components/app/(home)/sections/hero/Pixi/tickers/features/search.ts",
+      "startB": 17,
+      "lines": 13,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/hero/Pixi/tickers/features/scrape.ts",
+      "startA": 29,
+      "fileB": "components/app/(home)/sections/hero/Pixi/tickers/features/search.ts",
+      "startB": 29,
+      "lines": 15,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/hero/Pixi/tickers/features/scrape.ts",
+      "startA": 67,
+      "fileB": "components/app/(home)/sections/hero/Pixi/tickers/features/search.ts",
+      "startB": 47,
+      "lines": 16,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/hero/Pixi/tickers/features/scrape.ts",
+      "startA": 210,
+      "fileB": "components/app/(home)/sections/hero/Pixi/tickers/features/search.ts",
+      "startB": 135,
+      "lines": 10,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/hero/Pixi/tickers/features/mapping.ts",
+      "startA": 1,
+      "fileB": "components/app/(home)/sections/hero/Pixi/tickers/features/search.ts",
+      "startB": 1,
+      "lines": 16,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/hero/Pixi/tickers/features/mapping.ts",
+      "startA": 16,
+      "fileB": "components/app/(home)/sections/hero/Pixi/tickers/features/search.ts",
+      "startB": 16,
+      "lines": 14,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/hero/Pixi/tickers/features/mapping.ts",
+      "startA": 29,
+      "fileB": "components/app/(home)/sections/hero/Pixi/tickers/features/search.ts",
+      "startB": 29,
+      "lines": 34,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/hero/Pixi/tickers/features/mapping.ts",
+      "startA": 62,
+      "fileB": "components/app/(home)/sections/hero/Pixi/tickers/features/search.ts",
+      "startB": 62,
+      "lines": 21,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/hero/Pixi/tickers/features/mapping.ts",
+      "startA": 189,
+      "fileB": "components/app/(home)/sections/hero/Pixi/tickers/features/search.ts",
+      "startB": 127,
+      "lines": 16,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/hero/Pixi/tickers/features/crawl.ts",
+      "startA": 3,
+      "fileB": "components/app/(home)/sections/hero/Pixi/tickers/features/search.ts",
+      "startB": 1,
+      "lines": 16,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/hero/Pixi/tickers/features/crawl.ts",
+      "startA": 25,
+      "fileB": "components/app/(home)/sections/hero/Pixi/tickers/features/search.ts",
+      "startB": 23,
+      "lines": 21,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/hero/Pixi/tickers/features/crawl.ts",
+      "startA": 51,
+      "fileB": "components/app/(home)/sections/hero/Pixi/tickers/features/scrape.ts",
+      "startB": 59,
+      "lines": 18,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/hero/Pixi/tickers/features/crawl.ts",
+      "startA": 177,
+      "fileB": "components/app/(home)/sections/hero/Pixi/tickers/features/scrape.ts",
+      "startB": 200,
+      "lines": 13,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/hero/Pixi/tickers/features/crawl.ts",
+      "startA": 181,
+      "fileB": "components/app/(home)/sections/hero/Pixi/tickers/features/search.ts",
+      "startB": 125,
+      "lines": 19,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/header/Dropdown/Github/Flame/Flame.tsx",
+      "startA": 39,
+      "fileB": "components/shared/header/Dropdown/Stories/Flame/Flame.tsx",
+      "startB": 38,
+      "lines": 20,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/header/Dropdown/Github/Flame/Flame.tsx",
+      "startA": 10,
+      "fileB": "components/shared/header/Dropdown/Stories/Flame/Flame.tsx",
+      "startB": 9,
+      "lines": 28,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/hero-scraping/Code/Code.tsx",
+      "startA": 32,
+      "fileB": "components/app/(home)/sections/hero-scraping/Tag/Tag.tsx",
+      "startB": 16,
+      "lines": 14,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/hero/Background/Background.tsx",
+      "startA": 54,
+      "fileB": "components/app/(home)/sections/hero/Background/Background.tsx",
+      "startB": 49,
+      "lines": 47,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/endpoints/EndpointsSearch/EndpointsSearch.tsx",
+      "startA": 13,
+      "fileB": "components/app/(home)/sections/endpoints/Extract/Extract.tsx",
+      "startB": 8,
+      "lines": 16,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/endpoints/EndpointsSearch/EndpointsSearch.tsx",
+      "startA": 36,
+      "fileB": "components/app/(home)/sections/endpoints/Extract/Extract.tsx",
+      "startB": 27,
+      "lines": 10,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/endpoints/EndpointsSearch/EndpointsSearch.tsx",
+      "startA": 63,
+      "fileB": "components/app/(home)/sections/endpoints/Extract/Extract.tsx",
+      "startB": 55,
+      "lines": 79,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/endpoints/EndpointsScrape/EndpointsScrape.tsx",
+      "startA": 17,
+      "fileB": "components/app/(home)/sections/endpoints/Mcp/Mcp.tsx",
+      "startB": 15,
+      "lines": 23,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/endpoints/EndpointsScrape/EndpointsScrape.tsx",
+      "startA": 40,
+      "fileB": "components/app/(home)/sections/endpoints/Extract/Extract.tsx",
+      "startB": 27,
+      "lines": 10,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/endpoints/EndpointsScrape/EndpointsScrape.tsx",
+      "startA": 51,
+      "fileB": "components/app/(home)/sections/endpoints/EndpointsSearch/EndpointsSearch.tsx",
+      "startB": 53,
+      "lines": 20,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/endpoints/EndpointsScrape/EndpointsScrape.tsx",
+      "startA": 55,
+      "fileB": "components/app/(home)/sections/endpoints/Mcp/Mcp.tsx",
+      "startB": 51,
+      "lines": 18,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/endpoints/EndpointsScrape/EndpointsScrape.tsx",
+      "startA": 83,
+      "fileB": "components/app/(home)/sections/endpoints/Mcp/Mcp.tsx",
+      "startB": 84,
+      "lines": 15,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/endpoints/EndpointsScrape/EndpointsScrape.tsx",
+      "startA": 107,
+      "fileB": "components/app/(home)/sections/endpoints/Mcp/Mcp.tsx",
+      "startB": 108,
+      "lines": 38,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/endpoints/EndpointsScrape/EndpointsScrape.tsx",
+      "startA": 144,
+      "fileB": "components/app/(home)/sections/endpoints/Mcp/Mcp.tsx",
+      "startB": 146,
+      "lines": 38,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/endpoints/EndpointsExtract/EndpointsExtract.tsx",
+      "startA": 9,
+      "fileB": "components/app/(home)/sections/endpoints/EndpointsScrape/EndpointsScrape.tsx",
+      "startB": 9,
+      "lines": 31,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/endpoints/EndpointsExtract/EndpointsExtract.tsx",
+      "startA": 91,
+      "fileB": "components/app/(home)/sections/endpoints/Mcp/Mcp.tsx",
+      "startB": 86,
+      "lines": 16,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/endpoints/EndpointsExtract/EndpointsExtract.tsx",
+      "startA": 108,
+      "fileB": "components/app/(home)/sections/endpoints/EndpointsScrape/EndpointsScrape.tsx",
+      "startB": 102,
+      "lines": 80,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/endpoints/EndpointsCrawl/EndpointsCrawl.tsx",
+      "startA": 9,
+      "fileB": "components/app/(home)/sections/endpoints/Mcp/Mcp.tsx",
+      "startB": 9,
+      "lines": 29,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/endpoints/EndpointsCrawl/EndpointsCrawl.tsx",
+      "startA": 60,
+      "fileB": "components/app/(home)/sections/endpoints/EndpointsExtract/EndpointsExtract.tsx",
+      "startB": 60,
+      "lines": 19,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/endpoints/EndpointsCrawl/EndpointsCrawl.tsx",
+      "startA": 86,
+      "fileB": "components/app/(home)/sections/endpoints/EndpointsScrape/EndpointsScrape.tsx",
+      "startB": 80,
+      "lines": 21,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/endpoints/EndpointsCrawl/EndpointsCrawl.tsx",
+      "startA": 108,
+      "fileB": "components/app/(home)/sections/endpoints/EndpointsScrape/EndpointsScrape.tsx",
+      "startB": 102,
+      "lines": 44,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/endpoints/EndpointsCrawl/EndpointsCrawl.tsx",
+      "startA": 151,
+      "fileB": "components/app/(home)/sections/endpoints/Mcp/Mcp.tsx",
+      "startB": 146,
+      "lines": 38,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/header/Nav/_svg/Chats.tsx",
+      "startA": 1,
+      "fileB": "components/app/(home)/sections/hero-scraping/Code/Loading/_svg/Check.tsx",
+      "startB": 1,
+      "lines": 12,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/header/Github/_svg/GithubIcon.tsx",
+      "startA": 1,
+      "fileB": "components/app/(home)/sections/hero-scraping/Code/Loading/_svg/Check.tsx",
+      "startB": 1,
+      "lines": 12,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/header/Dropdown/Content/Content.tsx",
+      "startA": 203,
+      "fileB": "components/shared/header/Dropdown/Content/NavItemRow.tsx",
+      "startB": 75,
+      "lines": 17,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/header/BrandKit/_svg/Download.tsx",
+      "startA": 1,
+      "fileB": "components/shared/header/BrandKit/_svg/Guidelines.tsx",
+      "startB": 1,
+      "lines": 12,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/effects/flame/auth-pulse/auth-pulse.tsx",
+      "startA": 18,
+      "fileB": "components/shared/effects/flame/slate-grid/slate-grid.tsx",
+      "startB": 18,
+      "lines": 36,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/hero-flame/HeroFlame.tsx",
+      "startA": 11,
+      "fileB": "components/shared/header/Dropdown/Stories/Flame/Flame.tsx",
+      "startB": 10,
+      "lines": 13,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/ai-readiness/ControlPanel.tsx",
+      "startA": 318,
+      "fileB": "components/app/(home)/sections/ai-readiness/ControlPanel.tsx",
+      "startB": 307,
+      "lines": 10,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/ai-readiness/ControlPanel.tsx",
+      "startA": 545,
+      "fileB": "components/app/(home)/sections/ai-readiness/MetricBars.tsx",
+      "startB": 142,
+      "lines": 8,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/ai-readiness/ControlPanel.tsx",
+      "startA": 693,
+      "fileB": "components/app/(home)/sections/ai-readiness/ControlPanel.tsx",
+      "startB": 143,
+      "lines": 88,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/app/(home)/sections/ai-readiness/ControlPanel.tsx",
+      "startA": 806,
+      "fileB": "components/app/(home)/sections/ai-readiness/ControlPanel.tsx",
+      "startB": 249,
+      "lines": 21,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/effects/flame/hero-flame.tsx",
+      "startA": 36,
+      "fileB": "components/app/(home)/sections/hero-flame/HeroFlame.tsx",
+      "startB": 35,
+      "lines": 25,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/effects/flame/hero-flame.tsx",
+      "startA": 8,
+      "fileB": "components/app/(home)/sections/hero-flame/HeroFlame.tsx",
+      "startB": 9,
+      "lines": 12,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/effects/flame/hero-flame.tsx",
+      "startA": 35,
+      "fileB": "components/app/(home)/sections/hero-flame/HeroFlame.tsx",
+      "startB": 34,
+      "lines": 31,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/effects/flame/core-flame.tsx",
+      "startA": 8,
+      "fileB": "components/shared/header/Dropdown/Stories/Flame/Flame.tsx",
+      "startB": 9,
+      "lines": 16,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/effects/flame/Flame.tsx",
+      "startA": 10,
+      "fileB": "components/shared/effects/flame/core-flame.tsx",
+      "startB": 8,
+      "lines": 36,
+      "tokens": 0
+    },
+    {
+      "fileA": "lib/sandbox/providers/vercel-provider.ts",
+      "startA": 202,
+      "fileB": "lib/sandbox/providers/vercel-provider.ts",
+      "startB": 82,
+      "lines": 27,
+      "tokens": 0
+    },
+    {
+      "fileA": "lib/sandbox/providers/vercel-provider.ts",
+      "startA": 286,
+      "fileB": "lib/sandbox/providers/vercel-provider.ts",
+      "startB": 82,
+      "lines": 27,
+      "tokens": 0
+    },
+    {
+      "fileA": "lib/sandbox/providers/e2b-provider.ts",
+      "startA": 441,
+      "fileB": "lib/sandbox/providers/vercel-provider.ts",
+      "startB": 534,
+      "lines": 20,
+      "tokens": 0
+    },
+    {
+      "fileA": "lib/sandbox/providers/e2b-provider.ts",
+      "startA": 486,
+      "fileB": "lib/sandbox/providers/vercel-provider.ts",
+      "startB": 574,
+      "lines": 15,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/ui/shadcn/combobox.tsx",
+      "startA": 33,
+      "fileB": "components/app/(home)/sections/hero-input/Tabs/Mobile/Mobile.tsx",
+      "startB": 28,
+      "lines": 11,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/ui/shadcn/button.css",
+      "startA": 37,
+      "fileB": "components/ui/shadcn/button.css",
+      "startB": 21,
+      "lines": 7,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/ui/shadcn/button.css",
+      "startA": 43,
+      "fileB": "components/ui/shadcn/button.css",
+      "startB": 28,
+      "lines": 7,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/ui/shadcn/button.css",
+      "startA": 50,
+      "fileB": "components/ui/shadcn/button.css",
+      "startB": 19,
+      "lines": 15,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/ui/shadcn/alert-dialog.tsx",
+      "startA": 41,
+      "fileB": "components/ui/shadcn/dialog.tsx",
+      "startB": 26,
+      "lines": 77,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/portal-to-body/PortalToBody.tsx",
+      "startA": 1,
+      "fileB": "components/shared/utils/portal-to-body.tsx",
+      "startB": 1,
+      "lines": 8,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/loading/Shimmer.tsx",
+      "startA": 46,
+      "fileB": "components/shared/loading/Shimmer.tsx",
+      "startB": 9,
+      "lines": 15,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/loading/Shimmer.tsx",
+      "startA": 77,
+      "fileB": "components/shared/loading/Shimmer.tsx",
+      "startB": 9,
+      "lines": 14,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/layout/curvy-rect.tsx",
+      "startA": 76,
+      "fileB": "components/shared/layout/curvy-rect.tsx",
+      "startB": 46,
+      "lines": 102,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/layout/curvy-rect.tsx",
+      "startA": 112,
+      "fileB": "components/shared/layout/curvy-rect.tsx",
+      "startB": 87,
+      "lines": 19,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/layout/curvy-rect.tsx",
+      "startA": 162,
+      "fileB": "components/shared/layout/curvy-rect.tsx",
+      "startB": 137,
+      "lines": 19,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/icons/wordmark-colored.tsx",
+      "startA": 3,
+      "fileB": "components/shared/icons/wordmark-white.tsx",
+      "startB": 3,
+      "lines": 13,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/icons/fingerprint-icon.tsx",
+      "startA": 121,
+      "fileB": "components/shared/icons/fingerprint-icon.tsx",
+      "startB": 104,
+      "lines": 92,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/icons/check.tsx",
+      "startA": 1,
+      "fileB": "components/app/(home)/sections/hero-scraping/Code/Loading/_svg/Check.tsx",
+      "startB": 1,
+      "lines": 18,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/icons/animated-icons.tsx",
+      "startA": 146,
+      "fileB": "components/shared/icons/animated-icons.tsx",
+      "startB": 123,
+      "lines": 13,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/icons/animated-icons.tsx",
+      "startA": 402,
+      "fileB": "components/shared/icons/animated-icons.tsx",
+      "startB": 200,
+      "lines": 15,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/icons/animated-icons.tsx",
+      "startA": 472,
+      "fileB": "components/shared/icons/animated-icons.tsx",
+      "startB": 202,
+      "lines": 12,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/icons/animated-icons.tsx",
+      "startA": 510,
+      "fileB": "components/shared/icons/animated-icons.tsx",
+      "startB": 200,
+      "lines": 14,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/icons/animated-icons.tsx",
+      "startA": 547,
+      "fileB": "components/shared/icons/animated-icons.tsx",
+      "startB": 200,
+      "lines": 14,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/icons/animated-icons.tsx",
+      "startA": 595,
+      "fileB": "components/shared/icons/animated-icons.tsx",
+      "startB": 200,
+      "lines": 14,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/icons/animated-icons.tsx",
+      "startA": 631,
+      "fileB": "components/shared/icons/animated-icons.tsx",
+      "startB": 200,
+      "lines": 14,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/icons/animated-icons.tsx",
+      "startA": 659,
+      "fileB": "components/shared/icons/animated-icons.tsx",
+      "startB": 647,
+      "lines": 8,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/icons/animated-icons.tsx",
+      "startA": 671,
+      "fileB": "components/shared/icons/animated-icons.tsx",
+      "startB": 647,
+      "lines": 8,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/icons/animated-icons.tsx",
+      "startA": 692,
+      "fileB": "components/shared/icons/animated-icons.tsx",
+      "startB": 470,
+      "lines": 15,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/icons/animated-icons.tsx",
+      "startA": 729,
+      "fileB": "components/shared/icons/animated-icons.tsx",
+      "startB": 200,
+      "lines": 14,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/icons/animated-icons.tsx",
+      "startA": 784,
+      "fileB": "components/shared/icons/animated-icons.tsx",
+      "startB": 200,
+      "lines": 14,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/icons/animated-icons.tsx",
+      "startA": 838,
+      "fileB": "components/shared/icons/animated-icons.tsx",
+      "startB": 200,
+      "lines": 14,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/icons/animated-icons.tsx",
+      "startA": 878,
+      "fileB": "components/shared/icons/animated-icons.tsx",
+      "startB": 200,
+      "lines": 14,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/icons/animated-chevron.tsx",
+      "startA": 41,
+      "fileB": "components/shared/icons/animated-chevron.tsx",
+      "startB": 27,
+      "lines": 17,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/combobox/combobox.tsx",
+      "startA": 43,
+      "fileB": "components/ui/shadcn/combobox.tsx",
+      "startB": 43,
+      "lines": 87,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/combobox/combobox.tsx",
+      "startA": 6,
+      "fileB": "components/ui/shadcn/combobox.tsx",
+      "startB": 6,
+      "lines": 169,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/buttons/capsule-button.tsx",
+      "startA": 109,
+      "fileB": "components/shared/buttons/capsule-button.tsx",
+      "startB": 102,
+      "lines": 15,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/button/Button.css",
+      "startA": 1,
+      "fileB": "components/ui/shadcn/button.css",
+      "startB": 1,
+      "lines": 72,
+      "tokens": 0
+    },
+    {
+      "fileA": "app/api/run-command/route.ts",
+      "startA": 5,
+      "fileB": "app/api/run-command-v2/route.ts",
+      "startB": 7,
+      "lines": 15,
+      "tokens": 0
+    },
+    {
+      "fileA": "app/api/monitor-vite-logs/route.ts",
+      "startA": 1,
+      "fileB": "app/api/sandbox-logs/route.ts",
+      "startB": 1,
+      "lines": 16,
+      "tokens": 0
+    },
+    {
+      "fileA": "app/api/monitor-vite-logs/route.ts",
+      "startA": 40,
+      "fileB": "app/api/sandbox-logs/route.ts",
+      "startB": 48,
+      "lines": 7,
+      "tokens": 0
+    },
+    {
+      "fileA": "app/api/install-packages-v2/route.ts",
+      "startA": 17,
+      "fileB": "app/api/run-command-v2/route.ts",
+      "startB": 18,
+      "lines": 14,
+      "tokens": 0
+    },
+    {
+      "fileA": "app/api/conversation-state/route.ts",
+      "startA": 63,
+      "fileB": "app/api/conversation-state/route.ts",
+      "startB": 39,
+      "lines": 13,
+      "tokens": 0
+    },
+    {
+      "fileA": "app/api/apply-ai-code-stream/route.ts",
+      "startA": 136,
+      "fileB": "app/api/apply-ai-code-stream/route.ts",
+      "startB": 116,
+      "lines": 14,
+      "tokens": 0
+    },
+    {
+      "fileA": "app/api/apply-ai-code-stream/route.ts",
+      "startA": 389,
+      "fileB": "app/api/install-packages/route.ts",
+      "startB": 52,
+      "lines": 12,
+      "tokens": 0
+    },
+    {
+      "fileA": "app/api/apply-ai-code/route.ts",
+      "startA": 7,
+      "fileB": "app/api/apply-ai-code-stream/route.ts",
+      "startB": 12,
+      "lines": 23,
+      "tokens": 0
+    },
+    {
+      "fileA": "app/api/apply-ai-code/route.ts",
+      "startA": 32,
+      "fileB": "app/api/apply-ai-code-stream/route.ts",
+      "startB": 70,
+      "lines": 17,
+      "tokens": 0
+    },
+    {
+      "fileA": "app/api/apply-ai-code/route.ts",
+      "startA": 51,
+      "fileB": "app/api/apply-ai-code-stream/route.ts",
+      "startB": 89,
+      "lines": 9,
+      "tokens": 0
+    },
+    {
+      "fileA": "app/api/apply-ai-code/route.ts",
+      "startA": 59,
+      "fileB": "app/api/apply-ai-code-stream/route.ts",
+      "startB": 97,
+      "lines": 15,
+      "tokens": 0
+    },
+    {
+      "fileA": "app/api/apply-ai-code/route.ts",
+      "startA": 80,
+      "fileB": "app/api/apply-ai-code-stream/route.ts",
+      "startB": 214,
+      "lines": 51,
+      "tokens": 0
+    },
+    {
+      "fileA": "app/api/apply-ai-code/route.ts",
+      "startA": 219,
+      "fileB": "app/api/apply-ai-code-stream/route.ts",
+      "startB": 402,
+      "lines": 11,
+      "tokens": 0
+    },
+    {
+      "fileA": "app/api/apply-ai-code/route.ts",
+      "startA": 393,
+      "fileB": "app/api/apply-ai-code-stream/route.ts",
+      "startB": 579,
+      "lines": 13,
+      "tokens": 0
+    },
+    {
+      "fileA": "app/api/apply-ai-code/route.ts",
+      "startA": 426,
+      "fileB": "app/api/apply-ai-code-stream/route.ts",
+      "startB": 614,
+      "lines": 18,
+      "tokens": 0
+    },
+    {
+      "fileA": "app/api/apply-ai-code/route.ts",
+      "startA": 765,
+      "fileB": "app/api/apply-ai-code-stream/route.ts",
+      "startB": 750,
+      "lines": 18,
+      "tokens": 0
+    },
+    {
+      "fileA": "styles/components/button.css",
+      "startA": 1,
+      "fileB": "components/ui/shadcn/button.css",
+      "startB": 1,
+      "lines": 72,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/animated-dot-icon.tsx",
+      "startA": 119,
+      "fileB": "components/shared/animated-dot-icon.tsx",
+      "startB": 107,
+      "lines": 13,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/animated-dot-icon.tsx",
+      "startA": 232,
+      "fileB": "components/app/(home)/sections/endpoints/Mcp/Mcp.tsx",
+      "startB": 19,
+      "lines": 14,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/animated-dot-icon.tsx",
+      "startA": 271,
+      "fileB": "components/app/(home)/sections/endpoints/EndpointsCrawl/EndpointsCrawl.tsx",
+      "startB": 62,
+      "lines": 86,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/shared/animated-dot-icon.tsx",
+      "startA": 356,
+      "fileB": "components/app/(home)/sections/endpoints/Mcp/Mcp.tsx",
+      "startB": 146,
+      "lines": 39,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/HeroInput.tsx",
+      "startA": 157,
+      "fileB": "components/HeroInput.tsx",
+      "startB": 150,
+      "lines": 6,
+      "tokens": 0
+    },
+    {
+      "fileA": "components/FirecrawlLogo.tsx",
+      "startA": 1,
+      "fileB": "components/shared/header/_svg/Logo.tsx",
+      "startB": 1,
+      "lines": 48,
+      "tokens": 0
+    },
+    {
+      "fileA": "app/page.tsx",
+      "startA": 70,
+      "fileB": "components/app/generation/SidebarInput.tsx",
+      "startB": 26,
+      "lines": 17,
+      "tokens": 0
+    },
+    {
+      "fileA": "app/page.tsx",
+      "startA": 279,
+      "fileB": "components/app/(home)/sections/hero/Hero.tsx",
+      "startB": 47,
+      "lines": 9,
+      "tokens": 0
+    },
+    {
+      "fileA": "app/landing.tsx",
+      "startA": 26,
+      "fileB": "app/page.tsx",
+      "startB": 219,
+      "lines": 19,
+      "tokens": 0
+    },
+    {
+      "fileA": "app/landing.tsx",
+      "startA": 62,
+      "fileB": "app/page.tsx",
+      "startB": 248,
+      "lines": 19,
+      "tokens": 0
+    },
+    {
+      "fileA": "tailwind.config.ts",
+      "startA": 387,
+      "fileB": "tailwind.config.ts",
+      "startB": 376,
+      "lines": 9,
+      "tokens": 0
+    }
+  ],
+  "duplicatedLines": 2810,
+  "totalLines": 37807,
+  "percentage": 7.43
+}

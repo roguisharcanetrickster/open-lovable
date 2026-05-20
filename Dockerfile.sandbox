@@ -1,0 +1,19 @@
+FROM node:22-alpine
+
+# Install bash and procps for proper pgrep/pkill/shell compatibility
+RUN apk add --no-cache bash procps
+
+WORKDIR /vercel/sandbox
+
+# Create the agent server directory
+WORKDIR /app
+COPY sandbox/sandbox-agent.js ./
+
+# Expose sandbox agent API and Vite development server ports
+EXPOSE 3001
+EXPOSE 5173
+
+# Set host port environment
+ENV PORT=3001
+
+CMD ["node", "sandbox-agent.js"]
