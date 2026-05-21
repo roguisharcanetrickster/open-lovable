@@ -1,0 +1,19 @@
+name: CI
+on: [push, pull_request]
+
+jobs:
+  build-infra:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build Infra
+        run: docker build -t open-lovable-infra .
+
+  build-sandbox:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build Sandbox
+        run: docker build -t open-lovable-sandbox -f Dockerfile.sandbox .
+      - name: Verify Go
+        run: docker run --rm open-lovable-sandbox go version
