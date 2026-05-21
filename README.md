@@ -1,6 +1,6 @@
-# Open Lovable
+# Open Lovable (Go version)
 
-Chat with AI to build React apps instantly. An example app made by the [Firecrawl](https://firecrawl.dev/?ref=open-lovable-github) team. For a complete cloud solution, check out [Lovable.dev](https://lovable.dev/) ❤️.
+Chat with AI to build React apps instantly. This is a Go-based implementation. For a complete cloud solution, check out [Lovable.dev](https://lovable.dev/) ❤️.
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZtaHFleGRsMTNlaWNydGdianI4NGQ4dHhyZjB0d2VkcjRyeXBucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFVLWMa6dVskQX0qu1/giphy.gif" alt="Open Lovable Demo" width="100%"/>
 
@@ -8,9 +8,9 @@ Chat with AI to build React apps instantly. An example app made by the [Firecraw
 
 1. **Clone & Install**
 ```bash
-git clone https://github.com/firecrawl/open-lovable.git
+git clone https://github.com/roguisharcanetrickster/open-lovable.git
 cd open-lovable
-pnpm install  # or npm install / yarn install
+npm install
 ```
 
 2. **Add `.env.local`**
@@ -57,7 +57,7 @@ VERCEL_OIDC_TOKEN=auto_generated_by_vercel_env_pull
 
 3. **Run**
 ```bash
-pnpm dev  # or npm run dev / yarn dev
+npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000)
