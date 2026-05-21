@@ -576,7 +576,7 @@ Remember: You are a SURGEON making a precise incision, not an artist repainting 
         }
         
         // Build system prompt with conversation awareness
-        let systemPrompt = `You are an expert React developer with perfect memory of the conversation. You maintain context across messages and remember scraped websites, generated components, and applied code. Generate clean, modern React code for Vite applications.
+        let systemPrompt = `You are an expert Go and HTMX developer with perfect memory of the conversation. You maintain context across messages and remember scraped websites, generated components, and applied code. Generate clean, modern Go backend code and HTMX-integrated HTML templates.
 ${conversationContext}
 
 🚨 CRITICAL RULES - YOUR MOST IMPORTANT INSTRUCTIONS:

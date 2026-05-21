@@ -1,22 +1,12 @@
-FROM node:22-alpine AS base
-
-FROM base AS deps
-RUN apk add --no-cache libc6-compat
+FROM golang:1.23-alpine AS builder
 WORKDIR /app
-COPY package.json package-lock.json* ./
-RUN npm i --legacy-peer-deps
-
-FROM base AS builder
-WORKDIR /app
-COPY --from=deps /app/node_modules ./node_modules
+COPY go.mod go.sum* ./
+RUN go mod download
 COPY . .
-ENV NODE_ENV=production
-RUN npm run build
+RUN go build -o app main.go
 
-FROM base AS runner
+FROM alpine:latest
 WORKDIR /app
-ENV NODE_ENV=production
-ENV PORT=3000
-EXPOSE 3000
-COPY --from=builder /app ./
-CMD ["npm", "run", "start"]
+COPY --from=builder /app/app .
+EXPOSE 5173
+CMD ["./app"]

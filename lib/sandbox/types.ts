@@ -59,13 +59,13 @@ export abstract class SandboxProvider {
 	abstract isAlive(): boolean;
 
 	// Optional methods that providers can override
-	async setupViteApp(): Promise<void> {
+	async setupApp(): Promise<void> {
 		// Default implementation for setting up a Vite React app
-		throw new Error("setupViteApp not implemented for this provider");
+		throw new Error("setupApp not implemented for this provider");
 	}
 
-	async restartViteServer(): Promise<void> {
+	async restartServer(): Promise<void> {
 		// Default implementation for restarting Vite
-		throw new Error("restartViteServer not implemented for this provider");
+		throw new Error("restartServer not implemented for this provider");
 	}
 }

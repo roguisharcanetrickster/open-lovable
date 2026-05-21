@@ -1,7 +1,7 @@
 FROM node:22-alpine
 
-# Install bash and procps for proper pgrep/pkill/shell compatibility
-RUN apk add --no-cache bash procps
+Install bash, procps, and Go for sandbox capabilities
+RUN apk add --no-cache bash procps go
 
 WORKDIR /vercel/sandbox
 
